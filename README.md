@@ -7,3 +7,5 @@ The effect was built using Spark AR, 3D objects, face tracking and segmentation.
 # What I learned 
 I learned more of IG features, the capabilities of Reels and discovered a lot of daring trends of filter.
 
+# AR-Profile
+link: https://www.facebook.com/sparkarhub/portfolios/fb/FrasonFrancis88/
